@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\bin\Debug\net10.0\prueba -1.exe
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\bin\Debug\net10.0\prueba -1.deps.json
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\bin\Debug\net10.0\prueba -1.runtimeconfig.json
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\bin\Debug\net10.0\prueba -1.dll
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\bin\Debug\net10.0\prueba -1.pdb
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.AssemblyInfo.cs
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.dll
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\refint\prueba -1.dll
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.pdb
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\prueba -1.genruntimeconfig.cache
+C:\Users\User\source\repos\Sistema de Resverva\hello world\hello world\obj\Debug\net10.0\ref\prueba -1.dll
